@@ -1,0 +1,261 @@
+body{
+height: 100%;
+width: 100%;
+color: #222;
+}
+
+.navbar {
+  padding: 2rem;
+
+}
+.navbar-nav li{
+  padding-right: 20px;
+}
+
+.nav-link{
+  font-size: 1.1em;
+}
+
+.carousel-inner img{
+  width: 100%;
+  height: 800px;
+}
+
+.carousel-caption{
+  position: absolute;
+  top: 35%;
+}
+.carousel-caption h1 {
+  font-size: 900%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 15px #000;
+  font-size: 100px;
+  font-style: italic;
+}
+
+.carousel-caption h3{
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom: 1rem;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.btn{
+  position: relative;
+  background-color: #631a1a;
+  border: 1px solid #631a1a;
+  margin-left: 5px;
+}
+
+.btn:hover {
+background-color:#b3b1b1;
+border: 1px solid #a7a7a7;
+
+}
+
+
+
+.welcome{
+  padding: 50px;
+  border-radius: 0;
+}
+
+.dele-box1{
+  padding: 50px;
+}
+
+/*Social */ 
+.social{
+  position: relative;
+justify-content: center;
+
+ 
+}
+.social1{
+  position: relative;
+
+}
+
+
+.share{
+  position: absolute;
+  margin-top: 100px;
+  padding-left: 90px;
+  color: #eff4f7;
+  font-size: 50px;
+  font-style: italic;
+  font-family:'Times New Roman', Times, serif;
+  text-shadow:
+  0.01em 0 black,
+  0 0.01em black,
+  -0.01em 0 black,
+  0 -0.01em black;
+}
+
+.share2{
+  position: absolute;
+  margin-top: 150px;
+  padding-left: 150px;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+
+  text-shadow:
+  0.01em 0 black,
+  0 0.01em black,
+  -0.01em 0 black,
+  0 -0.01em black;
+}
+
+.menu{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 270%;
+}
+.tso_h{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 270%;
+}
+
+.tso_h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 180%;
+}
+
+.tso2_h1{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+  
+
+}
+.tso3_h1{
+  position: relative;
+  bottom: 45px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+}
+
+.tso4_h1{
+  position: relative;
+  bottom: 70px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+}
+
+.tso1{
+  position: relative;
+  top: px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.tso2{
+  position: relative;
+  bottom: 15px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.tso3{
+  position: relative;
+  bottom: 28px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.tso4{
+  position: relative;
+  bottom: 40px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.tso5{
+  position: relative;
+  bottom: 40px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.tso6{
+  position: relative;
+  bottom: 50px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.tso7{
+  position: relative;
+  bottom: 60px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.tso8{
+  position: relative;
+  bottom: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.tso_img{
+  position: relative;
+  
+  
+}
+
+.hr{
+ 
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  
+}
+
+.tso_h10{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+}
+
+.tso_h11{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+}
+
+.tso_h12{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+}
+
+.tso10{
+  position: relative;
+ 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.tso11{
+  position: relative;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.tso12{
+  position: relative;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.brunch{
+  position: relative;
+  top: 180px;
+}
+
+.tso{
+  position: relative;
+  bottom: 70px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.tso1-1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+.Book-bord{
+  background-color: #631a1a;
+  border: 1px solid #631a1a;
+}
